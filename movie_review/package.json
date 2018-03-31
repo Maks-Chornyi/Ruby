@@ -1,0 +1,7 @@
+{
+  "name": "movie_review",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
